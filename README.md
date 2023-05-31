@@ -72,7 +72,7 @@ while True:
 
 
 ### SERVER :
-![image](https://github.com/PriyankaAnnadurai/EX-10/assets/118351569/807d6576-f35c-406e-8b3f-0db77a734567)
+![image](https://github.com/PriyankaAnnadurai/EX-10/assets/118351569/a9bffaf0-c82c-4875-abcc-a731cba41abb)
 
 
 ## RESULT :
